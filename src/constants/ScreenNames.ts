@@ -1,0 +1,1 @@
+export const TestScreen = 'MyApp.TestScreen'
